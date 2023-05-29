@@ -1,0 +1,19 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "San pham a update roi nha",
+      "price": 200
+    },
+    {
+      "id": 2,
+      "name": "San pham b",
+      "price": 300
+    },
+    {
+      "name": "San pham c update",
+      "price": 500,
+      "id": 3
+    }
+  ]
+}
